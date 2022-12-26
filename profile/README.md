@@ -14,7 +14,7 @@ The messages are deleted after a certain amount of time, so you can talk about a
 
 - [ ] Whisper Room - [not open-sourced yet](https://github.com/whisper-room-dev/Whisper-Room)
 - [ ] Whisper Room API - [not open-sourced yet](https://github.com/whisper-room-dev/Whisper-Room-API)
-- [ ] Whisper Room landing - [open-sourced](https://github.com/whisper-room-dev/Whisper-Room-Net)
+- [ ] Whisper Room Net - [open-sourced](https://github.com/whisper-room-dev/Whisper-Room-Net)
 - [ ] Whisper Room Discord Bot - [open-sourced](https://github.com/whisper-room-dev/Whisper-Room-Bot)
 
 We have plans to have the Application and its API open-sourced (95%), but we are still working on it.
