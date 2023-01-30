@@ -12,7 +12,7 @@ The messages are deleted after a certain amount of time, so you can talk about a
 
 ## Repository Status
 
-- [ ] Whisper Room App - [open-sourced yet](https://github.com/whisper-room-dev/Whisper-Room-App)
+- [ ] Whisper Room App - [not open-sourced yet](https://github.com/whisper-room-dev/Whisper-Room-App)
 - [ ] Whisper Room API - [not open-sourced yet](https://github.com/whisper-room-dev/Whisper-Room-API)
 - [ ] Whisper Room Net - [open-sourced](https://github.com/whisper-room-dev/Whisper-Room-Net)
 - [ ] Whisper Room Discord Bot - [open-sourced](https://github.com/whisper-room-dev/Whisper-Room-Bot)
